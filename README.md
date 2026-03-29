@@ -95,11 +95,11 @@ High demand aligns with business travel schedules
 Late-night slots may be underutilized opportunities
 
 # Tools & Skills Used
-Power BI (Dashboarding & Visualization)
-DAX (Data modeling & calculations)
-Data Cleaning & Transformation
-Exploratory Data Analysis (EDA)
-Business Insight Generation
+Power BI (Dashboarding & Visualization),
+DAX (Data modeling & calculations),
+Data Cleaning & Transformation,
+Exploratory Data Analysis (EDA),
+Business Insight Generation.
 
 # Next Steps / Improvements
 Incorporate predictive models for demand forecasting
